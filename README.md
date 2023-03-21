@@ -22,31 +22,27 @@ System Engineer based in South Florida 🇺🇸 🏴󠁵󠁳󠁦󠁬󠁿
 Sr System Engineer @ [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) _(2018 - Present)_ <br> [HPCC](http://www.hpccsystems.com) Operations
 
 - Operating systems and automation expert
-- Writing code, documentation, and tools to deploy super computing clusters exceeding 10,000 nodes  
+- Writing code, documentation, and tools to deploy super computing clusters exceeding 10,000 nodes
+- **_Technologies used:_** RHEL, CentOS, Rocky, Python, Ansible, AWX, TestInfra, Kubernetes, MySQL, Redis, Stackstorm, Grafana, Prometheus, Azure, Terraform, Vault, AWS, HPCC Systems
 
-**_Technologies used:_** RHEL, CentOS, Rocky, Python, Ansible, AWX, TestInfra, Kubernetes, MySQL, Redis, Stackstorm, Grafana, Prometheus, Azure, Terraform, Vault, AWS, HPCC Systems
-
-Director of Information Technology @ Conrad & Scherer _(2016-2018)_<br> Legal Firm specialized in complex trials
+**_Director of Information Technology_** @ Conrad & Scherer _(2016-2018)_<br> Legal Firm specialized in complex trials
 
 - Automated & Implemented IT processes such as:
-	- Inventory & access control
-	- Machine learning cluster management
-	- Monitoring & data security
-	- Ticketing & auditing
-- Operating system deployment & automation
-- Network operations
-- Hiring and budgeting
+  - Inventory & access control
+  - Machine learning cluster management
+  - Monitoring & data security
+  - Ticketing & auditing
+- Network operations & systems automation
+- **_Technologies used:_** CentOS, Windows, Python, Ansible, OpenNMS, SnipeIT, Redis, Azure, Dell/EMC SANs, GlusterFS, Samba, WinRM, Powershell, OVirt, Openshift
 
-**_Technologies used:_** CentOS, Windows, Python, Ansible, OpenNMS, SnipeIT, Redis, Azure, Dell/EMC SANs, GlusterFS, Samba, WinRM, Powershell, OVirt, Openshift
-
-Consultant & Engineer @ Technical Cabbages INC _(2014-2017)_ <br> Owner
+**_Consultant & Engineer_** @ Technical Cabbages INC _(2014-2017)_ <br> Owner
 
 - Specialized in B2B optimizations and process automation
 - Migration of legacy systems to Linux & FOSS based solutions
 - Data backup and ransomeware mitigation
 - Operating system deployments and system automations
 
-System Engineer @ US Epperson Underwriting _(2006-2015)_ <br> Information Technology Department
+**_System Engineer_** @ US Epperson Underwriting _(2006-2015)_ <br> Information Technology Department
 
 - Operating system deployment and automation expert
 - Network operation
