@@ -13,10 +13,6 @@ System Engineer based in South Florida 🇺🇸 🏴󠁵󠁳󠁦󠁬󠁿
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=ansible,azure,aws,bash,bsd,cloudflare,docker,figma,git,github,gitlab,go,grafana,html,ipfs,kubernetes,linux,md,mysql,neovim,nginx,openshift,openstack,postgres,powershell,py,redis,sqlite,vim,vscode&perline=10)
-
----
-
 ## 👨‍💻 Engineering Experience
 
 **_Sr System Engineer_** @ [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) _(2018 - Present)_ <br> [HPCC](http://www.hpccsystems.com) Operations<br>
@@ -49,6 +45,8 @@ System Engineer based in South Florida 🇺🇸 🏴󠁵󠁳󠁦󠁬󠁿
 - Storage management
 - Tool creation based on powershell and c#
 
+---
+
 ## 💬 Languages
 
 🇺🇸 **English**: Native <br> 🟩 **Esperanto**: Conversational-ish<br> 🇨🇺 Spanish: Beginner
@@ -56,6 +54,8 @@ System Engineer based in South Florida 🇺🇸 🏴󠁵󠁳󠁦󠁬󠁿
 🇨**C/C++**:Beginner<br> 🦀 **Rust**: Beginner<br> 🐍 **Python**: Intermediate<br> 🐚 **Shell**: Expert<br> ⚡ **PowerShell**: Expert  
 🇾 **YAML**: Expert  
 🇲 **Markdown**: Expert
+
+---
 
 ## 🕹️ Hobbies
 
@@ -71,6 +71,8 @@ System Engineer based in South Florida 🇺🇸 🏴󠁵󠁳󠁦󠁬󠁿
 
 **Google Knol** - _(2009)_ Awarded for best article on Unified Windows Image Deployment  
 **Technology Student of the Year** - _(2003)_
+
+---
 
 ## 👨‍🎓 Education
 
