@@ -19,7 +19,7 @@ System Engineer based in South Florida 🇺🇸 🏴󠁵󠁳󠁦󠁬󠁿
 
 ## 👨‍💻 Engineering Experience
 
-Sr System Engineer @ [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) _(2018 - Present)_ <br> [HPCC](http://www.hpccsystems.com) Operations
+**_Sr System Engineer_** @ [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) _(2018 - Present)_ <br> [HPCC](http://www.hpccsystems.com) Operations<br>
 
 - Operating systems and automation expert
 - Writing code, documentation, and tools to deploy super computing clusters exceeding 10,000 nodes
